@@ -10,7 +10,17 @@ public class Zad3 {
         String dna;
 
         dna = in.next();
+        int[] tablica = new int[4];
+        tablica = ZliczanieNukleotydow(dna);
 
+        for (int i=0; i<4 ; i++)
+        {
+            System.out.print(tablica[i] +  " ");
+        }
+    }
+
+    public static int[] ZliczanieNukleotydow(String dna)
+    {
         int[] nukleotydy;
         nukleotydy = new int[4];
 
@@ -34,11 +44,7 @@ public class Zad3 {
             }
 
         }
-
-        for(int j=0 ; j<nukleotydy.length ; j++)
-        {
-            System.out.print(nukleotydy[j] + " ");
-        }
+        return nukleotydy;
 
     }
 }

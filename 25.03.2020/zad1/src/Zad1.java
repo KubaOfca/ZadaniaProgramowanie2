@@ -15,7 +15,7 @@ public class Zad1 {
 
     }
 
-    private static String Transkrypcja(String dnaToRna) {
+    public static String Transkrypcja(String dnaToRna) {
 
         dnaToRna = dnaToRna.replace("T","U");
         return dnaToRna;

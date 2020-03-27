@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b265c1bd-1412-4bde-8ae5-f008c4001916" name="Default Changelist" comment="" />
+    <list default="true" id="b265c1bd-1412-4bde-8ae5-f008c4001916" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../zad2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad1/src/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/src/Zad1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/out/production/zad2/Zad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/out/production/zad2/Zad2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/src/Zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/src/Zad2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zad3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zad3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZcnOgU3De5W6aBqiKZuhurry7m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -51,6 +66,7 @@
       <updated>1585147219663</updated>
       <workItem from="1585147222004" duration="534000" />
       <workItem from="1585309281641" duration="6000" />
+      <workItem from="1585320395626" duration="1663000" />
     </task>
     <servers />
   </component>
@@ -58,25 +74,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1585147755711">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1585322059952">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585147755711" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1585147755711">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585322059952" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1585322059952">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585147755711" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1585147755711">
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585322059952" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1585322059952">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585147755711" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1585147755711">
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585322059952" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1585322059952">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585147755711" />
-    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585309281097">
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585322059952" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585320394567">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585309281097" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585320394567" />
   </component>
 </project>

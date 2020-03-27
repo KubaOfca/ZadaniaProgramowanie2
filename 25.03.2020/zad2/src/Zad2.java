@@ -9,6 +9,11 @@ public class Zad2 {
 
         String dna;
         dna = in.next();
+        System.out.println(Dopelnienie(dna));
+    }
+
+    public static String Dopelnienie(String dna)
+    {
         String dnaKomplementarna = "";
         for (int j = 0; j < dna.length(); j++)
         {
@@ -37,9 +42,7 @@ public class Zad2 {
 
         }
 
-        System.out.println(dnaKomplementarnaOdwrocona);
-
-
+        return dnaKomplementarnaOdwrocona;
     }
 }
 
