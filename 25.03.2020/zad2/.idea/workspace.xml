@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b397483-bc74-4760-82f8-bf33f81dc555" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zad1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zad1/src/Zad1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/src/Zad1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/zad2/Zad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zad2/Zad2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zad2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +33,21 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="zad2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="zad2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Zad2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zad2" />
       <module name="zad2" />
@@ -47,6 +57,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Zad2" />
       </list>
     </recent_temporary>
@@ -63,6 +75,9 @@
       <updated>1585144590941</updated>
       <workItem from="1585144593856" duration="2623000" />
       <workItem from="1585320150108" duration="218000" />
+      <workItem from="1585322583402" duration="18000" />
+      <workItem from="1585323787786" duration="2262000" />
+      <workItem from="1585326636278" duration="2042000" />
     </task>
     <servers />
   </component>
@@ -74,22 +89,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="459" y="105" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1585147218294" />
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1585320368114">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1585329653636">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585320368114" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1585320368113">
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585329653636" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1585329653636">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585320368113" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1585320368113">
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585329653636" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1585329653636">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585320368113" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1585320368114">
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585329653636" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1585329653636">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585320368114" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585329653636" />
     <state width="1317" height="223" key="GridCell.Tab.1.bottom" timestamp="1585147220702">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -106,10 +121,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1317" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1585147220702" />
-    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585320149151">
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585326635609">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585320149151" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585326635609" />
     <state x="62" y="0" key="new project wizard" timestamp="1585147219605">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

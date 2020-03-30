@@ -21,54 +21,57 @@ public class zad5 {
     {
 
         String finalword = ""; // podciag
-
         boolean flaga = true;
         int[] indexs = new int[word2.length()]; // tablica indeksow drugiegow slowa w celu
         int rememberJ = 0; // pamietanie ostatniego miejsca wystapenia iteratora j,
         int ctr=0; // iterator tablicy indexs
-
-        for(int p=0; p<word2.length(); p++)
-        {
-            indexs[p] = -2; // wypelnienie tablicy neutralnymi indeksami
-        }
+        String tmp = ""; // tymaczsowa zmiena przechowujaca podciag
 
 
-        for(int i=0; i< word1.length(); i++)
-        {
+for(int f=0 ; f<word1.length() ; f++) {
 
-            for(int j=rememberJ; j< word2.length(); j++)
-            {
+    rememberJ = 0;
 
-                flaga = true;
+    ctr = 0;
 
-                if(word1.charAt(i) == word2.charAt(j))
-                {
-                    for(int k=0; k<word2.length() ; k++)
-                    {
-                        if(word2.indexOf(word2.charAt(j), j) == indexs[k])
-                        {
-                            flaga = false;
-
-                        }
-                    }
-                    if(flaga == true)
-                    {
-
-                        finalword += word1.charAt(i);
-                        rememberJ = j;
-                        indexs[ctr] = word2.indexOf(word2.charAt(j),j); // zapamietanie indeksu
-                        ctr++;
-                        break;
-
-                    }
-
-                }
-            }
-        }
-        return finalword;
-
-
-
+    for (int g = 0; g < word2.length(); g++)
+    {
+        indexs[g] = -2; // wypelnienie tablicy neutralnymi indeksami
     }
 
+    for (int i = f; i < word1.length(); i++) {
+
+        for (int j = rememberJ; j < word2.length(); j++) {
+
+            flaga = true;
+
+            if (word1.charAt(i) == word2.charAt(j)) {
+                for (int k = 0; k < word2.length(); k++) {
+                    if (word2.indexOf(word2.charAt(j), j) == indexs[k]) {
+                        flaga = false;
+
+                    }
+                }
+                if (flaga == true) {
+
+                    tmp += word1.charAt(i);
+                    rememberJ = j;
+                    indexs[ctr] = word2.indexOf(word2.charAt(j), j); // zapamietanie indeksu
+                    ctr++;
+                    break;
+
+                }
+
+            }
+        }
+
+    }
+    if (finalword.length() < tmp.length())
+    {
+        finalword = tmp;
+    }
+    tmp = "";
+
 }
+        return finalword;
+}}

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c877566-9420-42ff-9dc8-736745c401d5" name="Default Changelist" comment="" />
+    <list default="true" id="0c877566-9420-42ff-9dc8-736745c401d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/out/production/zad2/Zad2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/out/production/zad2/Zad2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/zad5/zad5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/zad5/zad5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zad5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZgQ289SXF2K8qwcl3DYOM470jN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../zad4/src/zad4.java" />
@@ -51,6 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585258047519</updated>
       <workItem from="1585258051029" duration="7895000" />
+      <workItem from="1585525920371" duration="2477000" />
+      <workItem from="1585561143530" duration="421000" />
     </task>
     <servers />
   </component>
@@ -62,22 +76,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1585308913127" />
-    <state width="1317" height="223" key="GridCell.Tab.0.bottom" timestamp="1585309115310">
+    <state width="1317" height="180" key="GridCell.Tab.0.bottom" timestamp="1585561566328">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="223" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585309115310" />
-    <state width="1317" height="223" key="GridCell.Tab.0.center" timestamp="1585309115310">
+    <state width="1317" height="180" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1585561566328" />
+    <state width="1317" height="180" key="GridCell.Tab.0.center" timestamp="1585561566328">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="223" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585309115310" />
-    <state width="1317" height="223" key="GridCell.Tab.0.left" timestamp="1585309115310">
+    <state width="1317" height="180" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1585561566328" />
+    <state width="1317" height="180" key="GridCell.Tab.0.left" timestamp="1585561566328">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="223" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585309115310" />
-    <state width="1317" height="223" key="GridCell.Tab.0.right" timestamp="1585309115310">
+    <state width="1317" height="180" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1585561566328" />
+    <state width="1317" height="180" key="GridCell.Tab.0.right" timestamp="1585561566328">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="223" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585309115310" />
+    <state width="1317" height="180" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1585561566328" />
     <state width="1317" height="223" key="GridCell.Tab.1.bottom" timestamp="1585309115311">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -94,6 +108,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state width="1317" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1585309115311" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585561143830">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1585561143830" />
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585305831930">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
